@@ -1,6 +1,6 @@
 # 👋 Hello, I'm HuZhengYu
 
-**🎓 Virtual Reality Technology Student | Junior Year | Seeking Technical Internship**  
+**🎓 Virtual Reality Technology | Junior Year (大三) | Seeking Technical Internship**  
 🏫 University Name | 📍 Location | 📧 your.email@example.com
 
 ---
@@ -38,20 +38,36 @@
 
 ---
 
-## 📅 7-Day Sprint Progress
+## 📅 7-Day Sprint Progress (Starts Dec 28, 2025)
 
-### Day 1 (Today - 2024.03.20)
-✅ **GitHub Setup**: Created professional profile and portfolio repository  
-✅ **Project Structure**: Initialized 4 core project repositories  
-🔄 **SQL Server**: Installing database environment  
+### 🔄 **Day 1** (Dec 28): GitHub Setup & SQL Server Installation
+- Create professional GitHub profile
+- Initialize project repositories
+- Install SQL Server 2022 Developer Edition
 
-### Upcoming Days
-- 🔜 **Day 2**: Complete SQL Server Library System
-- ⏳ **Day 3**: Refactor C Parking System
-- ⏳ **Day 4**: Organize Unity VR Projects
-- ⏳ **Day 5**: Develop Python Automation Tools
-- ⏳ **Day 6**: Build Personal Portfolio Website
-- ⏳ **Day 7**: Finalize Resume & Start Applying
+### ⏳ **Day 2** (Dec 29): Database Development
+- Design and implement Library Management System
+- Write advanced SQL queries and stored procedures
+
+### ⏳ **Day 3** (Dec 30): C Programming Project
+- Refactor Parking Management System
+- Implement data structures and file I/O
+
+### ⏳ **Day 4** (Dec 31): Unity & 3D Development
+- Organize Unity VR projects
+- Create project demonstrations
+
+### ⏳ **Day 5** (Jan 1): Python Automation Tools
+- Develop Python utility scripts
+- Create data analysis examples
+
+### ⏳ **Day 6** (Jan 2): Portfolio & Resume
+- Build personal portfolio website
+- Finalize technical resume
+
+### ⏳ **Day 7** (Jan 3): Apply & Prepare
+- Start internship applications
+- Prepare for technical interviews
 
 ---
 
@@ -59,7 +75,7 @@
 
 - 📧 Email: your.email@example.com
 - 📱 Phone: 138-xxxx-xxxx
-- 💼 Resume: [Download PDF](https://github.com/coder-HuZhengYu/resume) (Coming soon)
+- 💼 Resume: [Download PDF](https://github.com/coder-HuZhengYu/resume) (Available Jan 2)
 - 🔗 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
 
 ---
@@ -67,4 +83,4 @@
 ## 🎯 Current Focus
 Building a strong technical portfolio through hands-on projects in database systems, game development, and automation tools. Open to internship opportunities in VR/AR, game development, or software engineering.
 
-*"Code is like humor. When you have to explain it, it's bad." - Cory House*
+*"The best time to start was yesterday. The next best time is now."*
